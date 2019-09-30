@@ -11,6 +11,11 @@
     "autoload": {
         "psr-0": {
             "": "stubs"
+        },
+        "psr-4": {
+          "Allegro\\Protobuf\\Compiler": "src/Allegro/Protobuf/Compiler",
+          "Google\\Protobuf": "src/Google/Protobuf",
+          "Google\\Protobuf\\Compiler": "src/Google/Protobuf/Compiler"
         }
     },
     "authors": [
