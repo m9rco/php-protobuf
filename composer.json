@@ -1,5 +1,5 @@
 {
-    "name": "allegro/php-protobuf",
+    "name": "m9rco/php-protobuf",
     "description": "Google's Protocol Buffers for PHP",
     "type": "library",
     "keywords": [
@@ -7,7 +7,7 @@
         "data",
         "pb"
     ],
-    "homepage": "https://github.com/allegro/php-protobuf",
+    "homepage": "https://github.com/m9rco/php-protobuf",
     "autoload": {
         "psr-0": {
             "": "stubs"
